@@ -1,7 +1,6 @@
 import java.util.Arrays;
 
 class Solution {
-
     public static int[] twoSum(int[] nums, int target) {
 
         System.out.println("ola");
