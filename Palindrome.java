@@ -1,7 +1,6 @@
 import java.util.Scanner;
 
 public class Palindrome {
-
     public static boolean isPalindrome(int x) {
 
         String numeroVef = String.valueOf(x);
