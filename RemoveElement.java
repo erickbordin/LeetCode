@@ -20,7 +20,6 @@ class Solution {
         int[] numeros = { 3, 2, 2, 3 };
 
         s1.removeElement(numeros, 2);
-
     }
 
 }
