@@ -16,5 +16,4 @@ class RemoveDuplicatesSortedArray {
         int k = removeDuplicates(new int[] { 1, 1, 2, 2 });
         System.out.println(k);
     }
-
 }
