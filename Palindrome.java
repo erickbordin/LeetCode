@@ -16,7 +16,6 @@ public class Palindrome {
             if (numeroVef.charAt(i) != numeroVef.charAt(j)) {
                 return false;
             }
-
         }
 
         return true;
